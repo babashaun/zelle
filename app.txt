@@ -1,2 +1,10 @@
+
 hello 
-back 
+back
+hello world 
+how are you
+can i be of help to you
+Good night
+whats happen
+bye 
+development
